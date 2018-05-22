@@ -1,0 +1,19 @@
+
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(•å‰ßüÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(•å‰ßüÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(¼Ï©Ýüÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(•å‰ßüÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(åó™ª
+¤%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(›à½Ä
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(Þ±²ìÿÿÿÿÿ
+¥%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Þ±²ìÿÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(¾ ð¼ûÿÿÿÿ
+?squid:S1659"*Declare "provinceCode" on a separate line.(µóõô
+|squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "baseActRsp".(¸¿ÏÅùÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(åó™ª
+Ysquid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(ðÏü³
+Ksquid:S1172"1Remove this unused method parameter "provinceId".(—£µþùÿÿÿÿ
+Ksquid:S1172"1Remove this unused method parameter "provinceId".(Þ±²ìÿÿÿÿÿ
+Ksquid:S1172"1Remove this unused method parameter "provinceId".(¾ ð¼ûÿÿÿÿ
+Xsquid:S00107"=Method has 16 parameters, which is greater than 7 authorized.(—£µþùÿÿÿÿ
+Wsquid:S00107"<Method has 8 parameters, which is greater than 7 authorized.(Þ±²ìÿÿÿÿÿ

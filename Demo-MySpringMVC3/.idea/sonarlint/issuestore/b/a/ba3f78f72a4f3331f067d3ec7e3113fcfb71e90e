@@ -1,0 +1,7 @@
+
+Usquid:UnusedPrivateMethod"3Remove this unused private "transPaymentId" method.(™‹º
+
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(“êÛşÿÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(îË„ùÿÿÿÿ
+[squid:S1226"FIntroduce a new variable instead of reusing the parameter "startDate".(©‰•é
+Xsquid:S1226"DIntroduce a new variable instead of reusing the parameter "endDate".(ÚĞ…2

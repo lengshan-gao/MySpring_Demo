@@ -1,0 +1,11 @@
+
+¤%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(¿ ‡Ñ
+©%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(éÍ¶ðüÿÿÿÿ
+¤%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'com.cbss.framework.exception.CbssException' which is a runtime exception.(£ßØ¦
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ¼Á‘
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü´¶Àùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶™µýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶™µýÿÿÿÿ
+{squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "userDatum".(œÏŸžûÿÿÿÿ
+{squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "userDatum".(œÏŸžûÿÿÿÿ
+Hsquid:S1172"3Remove this unused method parameter "serialNumber".(£ßØ¦
